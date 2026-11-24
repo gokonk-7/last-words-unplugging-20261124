@@ -1,0 +1,10 @@
+kit/
+kit.tar.gz
+competition.json
+requirements.json
+transcripts.tar.gz
+muse-usage.jsonl
+SUBMIT.md
+prompt.txt
+__pycache__/
+*.pyc
